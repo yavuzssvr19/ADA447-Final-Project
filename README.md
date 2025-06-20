@@ -28,7 +28,7 @@ This project performs **context-aware grayscale image colorization** using a dee
 
 The dataset combines multiple sources and is preprocessed into `L` and `ab` channels from LAB color space.
 
-'''
+```
 landscape_data/
 ├── train/
 │ ├── grayscale/
@@ -37,5 +37,6 @@ landscape_data/
 │ └── lab_ab/
 ├── valid/
 └── test/
-'''
+
+```
 
