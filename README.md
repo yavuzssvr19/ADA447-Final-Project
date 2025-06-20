@@ -39,4 +39,25 @@ landscape_data/
 └── test/
 
 ```
+---
+
+
+---
+
+## 🧪 Evaluation Metrics
+
+- **SSIM (Structural Similarity Index)**: Measures perceptual similarity.
+- **PSNR (Peak Signal-to-Noise Ratio)**: Measures pixel-level similarity.
+
+---
+
+## 🚀 How to Run
+
+### 🔗 Via Gradio (Locally or HuggingFace Spaces)
+
+HuggingFace Space: https://huggingface.co/spaces/yavuzssvr/AI-Powered-Image-Colorization 
+
+---
+
+
 
