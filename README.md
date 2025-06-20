@@ -1,3 +1,5 @@
+![A sample output](outputs.png)
+
 # 🎨 Context-Aware Image Colorization with Semantic Segmentation
 
 This project performs **context-aware grayscale image colorization** using a deep learning pipeline that combines semantic segmentation (via DeepLabV3) and an encoder-decoder architecture (EfficientUNet). It enhances color realism by using object-aware cues.
